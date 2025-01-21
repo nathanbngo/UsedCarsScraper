@@ -31,8 +31,3 @@ UsedCarsScraper/
 ```
 
 ---
-
-## **Example Visualization**
-Scatter plot showcasing **Price vs Mileage** trends:
-
-![Example Scatter Plot](https://via.placeholder.com/800x400?text=Scatter+Plot+Example)
